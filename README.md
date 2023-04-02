@@ -1,8 +1,10 @@
 # About the project 
 
 ![image](https://user-images.githubusercontent.com/98813616/229379247-7d332f6f-099a-4e60-8747-0edca82d4d37.png)
-
-
+ 
+ 1) Use the left and right arrow for moving the coin.
+ 
+ 2) Use the space bar for dropping the coin
 <br/>
 
 
